@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+ body{
+
+
+  background-color:rgb(255, 140, 249);
+  color: rgb(0, 0, 0);
+  
+  font-family: 'Roboto Condensed', sans-serif;
+  
+   }
+
+   
+/*adding my own header color styles*/
+.headerstyle{
+
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 253, 116);
+
+}
+
+.headerstyle:hover{
+
+  color:rgb(0, 0, 0);
+  background-color: rgb(255, 123, 0);
+  
+}
+header {
+  padding: 154px 0 100px;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+
+  font-family: 'Staatliches', cursive;
+  font-style: italic;
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
